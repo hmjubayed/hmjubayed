@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @hmjubayed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+```php
 
-<p pin="68596077">📫 How to reach me ...</p>
+<?php 
+
+artisan developer
+
+``
+
+<p id="68596077">📫 How to reach me ...</p>
