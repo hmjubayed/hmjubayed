@@ -2,8 +2,6 @@
 
 <?php
 
-email:   ducorteam@gmail.com
-
 dd("artisan developer")
 
 ```
