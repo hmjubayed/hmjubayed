@@ -9,7 +9,7 @@ dd("artisan developer")
 ```jsx
 export default info function(){
   
-  console.log("jsx developer");
+  console.log("tsx/jsx developer");
 }
 ```
 
